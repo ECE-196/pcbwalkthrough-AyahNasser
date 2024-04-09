@@ -1,21 +1,19 @@
 # CHANGELOG
 
 ## {DATE}
-Date: April 5, 2024
+Date: April 7, 2024
 ### Contributors
 Ayah Aldawsari
 ...
 
 ### Added
-Soldered the LEDs and the resistors and made sure that all of them work by testing each with the battery. Also soldered the header pins and the microphone. I used the glue and the soldering iron to melt the solder wire to solder the componenets. 
+I added three pictures, 1- the schematic and 2- the layout and lastly the 3d.
 ...
 
 ### Changed
-Changed the pieces by putting them all together. 
-
+I did not change anything
 ...
 
 ### Removed
-I removed the pieces from the package that was given to me, in order to Assemble the Light Shield and solder eveyrthing. 
-
+I did not remove anything
 ...
